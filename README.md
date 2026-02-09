@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=N0x4Sh&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Offensive%20Cyber%20Operations%20%7C%20Exploit%20Development%20%7C%200day%20Research&descAlignY=58&descSize=20)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Dev+%7C+Ethical+Hacker+%7C+Open+Source+Builder;Breaking+%26+Building+Things" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=N0x4Sh&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=𝗗𝗔𝗧𝗔%20𝗕𝗥𝗢𝗞𝗘𝗥%20-%20𝗠𝗢𝗡𝗘𝗬%20𝗟𝗔𝗨𝗚𝗛𝗘𝗥𝗘𝗥%20-%20𝗠𝗔𝗟𝗪𝗔𝗥𝗘%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥%20-%20𝗖𝗥𝗬𝗣𝗧𝗢%20𝗛𝗘𝗜𝗦𝗧𝗘𝗥&descAlignY=58&descSize=20)
 
 [![X](https://img.shields.io/badge/@N0x4Sh-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/N0x4Sh)
 [![Status](https://img.shields.io/badge/STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=target&logoColor=white)](#)
